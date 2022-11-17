@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Norbiom's Profile - MyAnimeList</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Rancho&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Mitr&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+  <div class="banner" style="background-position: center; background-image: url('https://images8.alphacoders.com/124/1245444.jpg');">
+    <div class="wave-1">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path fill="var(--color-primary-dark)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
+      </svg>
+    </div>
+    <div class="wave-2">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path fill="var(--color-primary)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
+      </svg>
+    </div>
+    <div class="wave-3">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path fill="var(--color-primary-light)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
+      </svg>
+    </div>
+  </div>
+
+  <div class="wave-fill"></div>
+
+  <div class="content">
+    <div class="welcome">
+      <div class="welcome-title">
+        Welcome!
+      </div>
+    </div>
+
+    <div class="about-me">
+      <fieldset>
+        <legend>About me</legend>
+        <p>
+          Meu nome é Alessandro, tenho 19 anos,
+          vivo no Mato Grosso do Sul e por enquanto curso Engenharia de Software.
+          Quando não estou estudando, gosto de passar
+          meu tempo assistindo animes ou
+          jogando os mais variados tipos de jogos!
+          <br><br>
+          Os gêneros de anime que mais gosto são comédia, romance e ação. Não sou muito crítico, mas gosto de
+          dar minha opinião sobre o que assisto no
+          final.
+          Na minha lista você vai encontrar uma
+          pequena resenha sobre o que achei de
+          cada anime.
+          <br><br>
+          Esse perfil foi feito 100% em
+          HTML e CSS, e você pode encontrar o código
+          no meu Github. É isso, seja bem-vindo!
+        </p>
+      </fieldset>
+    </div>
+
+    <div class="social">
+      <div class="social-item">
+        <img class="icon" src="https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/9f/31/66/9f31663e-5768-1d6c-b2d2-a8ba1edbd662/ProductionAppIcon-1x_U007emarketing-0-7-0-0-0-85-220.png/1024x1024.jpg" alt="">
+        @Norbiom
+      </div>
+      <div class="social-item">
+        <img class="icon" src="https://user-images.githubusercontent.com/43749971/171056860-ce26fa0b-8731-4f73-9ac8-a97a4ab6cf8d.png" alt="">
+        Norbiom
+      </div>
+      <div class="social-item">
+        <img class="icon" src="https://bitzinfotech.com/wp-content/uploads/2020/05/insta-class.png" alt="">
+        @alessandro.lima.silva
+      </div>
+    </div>
+
+      <div class="section-banner" style="background-position: top; background-image: url('https://images7.alphacoders.com/118/1186080.jpg');">
+
+      <div class="wave-invert-3">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-dark)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
+        </svg>
+      </div>
+
+      <div class="wave-invert-2">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
+        </svg>
+      </div>
+
+      <div class="wave-invert-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-light)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
+        </svg>
+      </div>
+
+      <div class="wave-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-dark)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
+        </svg>
+      </div>
+      <div class="wave-2">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
+        </svg>
+      </div>
+      <div class="wave-3">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-light)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
+        </svg>
+      </div>
+    </div>
+
+    <div class="wave-fill"></div>
+
+    <div class="favorite-anime">
+      <div class="section-title">
+        Favorite Anime
+      </div>
+
+      <div class="top-10-animes">
+        <div class="animes-row">
+          <div class="anime">
+            <div class="anime-image" style="background-image: url('https://cdn.myanimelist.net/images/anime/11/80167l.jpg');"></div>
+            <div class="anime-name">Saiki Kusuo no Φ-nan</div>
+          </div>
+          <div class="anime">
+            <div class="anime-image" style="background-image: url('https://cdn.myanimelist.net/images/anime/1287/129251l.jpg');"></div>
+            <div class="anime-name">Spy x Family</div>
+          </div>
+          <div class="anime">
+            <div class="anime-image" style="background-image: url('https://cdn.myanimelist.net/images/anime/1291/97023l.jpg?_gl=1*19ljlmd*_ga*MTc4MTE0NTAwNC4xNjY3ODY5NDc1*_ga_26FEP9527K*MTY2ODA0MjA2MC4yLjEuMTY2ODA0MjM2OC42MC4wLjA.');"></div>
+            <div class="anime-name">Kaguya-sama</div>
+          </div>
+          <div class="anime">
+            <div class="anime-image" style="background-image: url('https://cdn.myanimelist.net/images/anime/1826/105017l.jpg');"></div>
+            <div class="anime-name">Itai no wa</div>
+          </div>
+          <div class="anime">
+            <div class="anime-image" style="background-image: url('https://cdn.myanimelist.net/images/anime/1069/123309l.jpg');"></div>
+            <div class="anime-name">Tensei shitara Slime Datta Ken!</div>
+          </div>
+        </div>
+        <div class="animes-row">
+          <div class="anime">
+            <div class="anime-image" style="background-image: url('https://cdn.myanimelist.net/images/manga/2/215750.jpg');"></div>
+            <div class="anime-name">Shadows House</div>
+          </div>
+          <div class="anime">
+            <div class="anime-image" style="background-image: url('https://cdn.myanimelist.net/images/anime/13/69455.jpg');"></div>
+            <div class="anime-name">Ore Monogatari!!</div>
+          </div>
+          <div class="anime">
+            <div class="anime-image" style="background-image: url('https://cdn.myanimelist.net/images/anime/7/72533l.jpg');"></div>
+            <div class="anime-name">One Punch Man</div>
+          </div>
+          <div class="anime">
+            <div class="anime-image" style="background-image: url('https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-xsLpqMFkMQQk.png');"></div>
+            <div class="anime-name">Re:Zero</div>
+          </div>
+          <div class="anime">
+            <div class="anime-image" style="background-image: url('https://cdn.myanimelist.net/images/anime/5/82890.jpg');"></div>
+            <div class="anime-name">Youjo Senki</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-banner" style="background-position: top; background-image: url('https://images7.alphacoders.com/783/783546.png');">
+
+      <div class="wave-invert-3">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-dark)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
+        </svg>
+      </div>
+
+      <div class="wave-invert-2">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
+        </svg>
+      </div>
+
+      <div class="wave-invert-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-light)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
+        </svg>
+      </div>
+
+      <div class="wave-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-dark)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
+        </svg>
+      </div>
+      <div class="wave-2">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
+        </svg>
+      </div>
+      <div class="wave-3">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-light)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
+        </svg>
+      </div>
+    </div>
+
+    <div class="wave-fill"></div>
+
+    <div class="favorite-characters">
+      <div class="section-title">
+        Favorite Characters
+      </div>
+
+      <div class="top-characters">
+        <div class="characters-row">
+          <div class="character">
+            <div class="character-image" style="background-image: url('https://i.pinimg.com/564x/2a/73/d1/2a73d13b87e5726e8fa203ebfdfd6a87.jpg');"></div>
+            <div class="character-name">Saiki Kusuo</div>
+          </div>
+          <div class="character">
+            <div class="character-image" style="background-image: url('https://i.pinimg.com/564x/2e/bf/3b/2ebf3b9b2e9aaf379742e926ae953806.jpg');"></div>
+            <div class="character-name">Kirito</div>
+          </div>
+          <div class="character">
+            <div class="character-image" style="background-image: url('https://images5.alphacoders.com/124/1248752.jpg');"></div>
+            <div class="character-name">Miku Nakano</div>
+          </div>
+          <div class="character">
+            <div class="character-image" style="background-image: url('https://static.zerochan.net/Ishigami.Senkuu.full.2855258.jpg');"></div>
+            <div class="character-name">Senkuu</div>
+          </div>
+          <div class="character">
+            <div class="character-image" style="background-image: url('https://images8.alphacoders.com/106/1063085.jpg');"></div>
+            <div class="character-name">Maple</div>
+          </div>
+        </div>
+        <div class="characters-row">
+          <div class="character">
+            <div class="character-image" style="background-image: url('https://images7.alphacoders.com/655/655515.jpg');"></div>
+            <div class="character-name">Ainz oown Gown</div>
+          </div>
+          <div class="character">
+            <div class="character-image" style="background-image: url('https://images.alphacoders.com/714/714822.jpg');"></div>
+            <div class="character-name">Souma Yukihira</div>
+          </div>
+          <div class="character">
+            <div class="character-image" style="background-image: url('https://images4.alphacoders.com/100/1002134.png');"></div>
+            <div class="character-name">Chika Fujiwara</div>
+          </div>
+          <div class="character">
+            <div class="character-image" style="background-image: url('https://enterz.id/wp-content/uploads/2022/03/Shiraori_Fanart_1.webp');"></div>
+            <div class="character-name">Shiraori</div>
+          </div>
+          <div class="character">
+            <div class="character-image" style="background-image: url('https://i.pinimg.com/originals/9d/bd/4b/9dbd4bba2ab5e0df08f79096d0d72edc.jpg');"></div>
+            <div class="character-name">Kokomi Teruhashi</div>
+          </div>
+        </div>
+        <div class="characters-row">
+          <div class="character">
+            <div class="character-image" style="background-image: url('https://images5.alphacoders.com/908/908301.jpg');"></div>
+            <div class="character-name">Violet Evergarden</div>
+          </div>
+          <div class="character">
+            <div class="character-image" style="background-image: url('https://images5.alphacoders.com/127/1271326.jpg');"></div>
+            <div class="character-name">Emilico</div>
+          </div>
+          <div class="character">
+            <div class="character-image" style="background-image: url('http://pm1.narvii.com/6663/1cca19342ae8c653838578ab582a335b0ac4df0a_00.jpg');"></div>
+            <div class="character-name">Takeo Gouda</div>
+          </div>
+          <div class="character">
+            <div class="character-image" style="background-position: right; background-image: url('https://images2.alphacoders.com/125/1257915.jpg');"></div>
+            <div class="character-name">Marin Kitagawa</div>
+          </div>
+          <div class="character">
+            <div class="character-image" style="background-image: url('https://i.pinimg.com/564x/cc/07/4d/cc074d294c418da3a627b9c22d777bd1.jpg');"></div>
+            <div class="character-name">Rimuru Tempest</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-banner" style="background-position: top; background-image: url('https://images5.alphacoders.com/123/1235274.jpg');">
+
+      <div class="wave-invert-3">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-dark)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
+        </svg>
+      </div>
+
+      <div class="wave-invert-2">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
+        </svg>
+      </div>
+
+      <div class="wave-invert-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-light)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
+        </svg>
+      </div>
+
+      <div class="wave-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-dark)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
+        </svg>
+      </div>
+      <div class="wave-2">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
+        </svg>
+      </div>
+      <div class="wave-3">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-light)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
+        </svg>
+      </div>
+    </div>
+
+    <div class="wave-fill"></div>
+
+    <div class="favorite-openings">
+      <div class="section-title">
+        Favorite Openings
+      </div>
+
+      <div class="link-alert">
+        Clique na imagem para assistir
+      </div>
+
+      <div class="top-10-openings">
+        <div class="openings-row">
+          <a class="opening" href="https://www.youtube.com/watch?v=2upuBiEiXDk&ab_channel=CrunchyrollCollection" target="_blank">
+            <div class="opening-image" style="background-image: url('https://images2.alphacoders.com/718/71840.jpg');"></div>
+            <div class="opening-anime">Naruto Shippuden</div>
+            <div class="opening-name">Blue Bird</div>
+          </a>
+          <a class="opening" href="https://www.youtube.com/watch?v=vci9YwpFFcA&ab_channel=CrunchyrollCollection" target="_blank">
+            <div class="opening-image" style="background-image: url('https://images6.alphacoders.com/903/903279.jpg');"></div>
+            <div class="opening-anime">Overlord</div>
+            <div class="opening-name">VORACITY</div>
+          </a>
+        </div>
+        <div class="openings-row">
+          <a class="opening" href="https://www.youtube.com/watch?v=OBqw818mQ1E&ab_channel=SiMOfficialYouTubeChannel" target="_blank">
+            <div class="opening-image" style="background-image: url('https://images5.alphacoders.com/607/607873.jpg');"></div>
+            <div class="opening-anime">Shingeki no Kyojin</div>
+            <div class="opening-name">The rumbling</div>
+          </a>
+          <a class="opening" href="https://www.youtube.com/watch?v=3n3itDDgmQQ&ab_channel=AndreyRodrigues" target="_blank">
+            <div class="opening-image" style="background-image: url('https://images3.alphacoders.com/782/782039.png');"></div>
+            <div class="opening-anime">Dragon ball GT</div>
+            <div class="opening-name">Sorriso resplandecente</div>
+          </a>
+        </div>
+        <div class="openings-row">
+          <a class="opening" href="https://www.youtube.com/watch?v=yhNyfCWgUQc&ab_channel=Spectranime" target="_blank">
+            <div class="opening-image" style="background-image: url('https://images4.alphacoders.com/214/214396.jpg');"></div>
+            <div class="opening-anime">Death Note</div>
+            <div class="opening-name">The World</div>
+          </a>
+          <a class="opening" href="https://www.youtube.com/watch?v=BKIgQxN3g7I&ab_channel=Anicrad" target="_blank">
+            <div class="opening-image" style="background-image: url('https://images.alphacoders.com/995/995884.png');"></div>
+            <div class="opening-anime">Kaguya-sama: Love is War</div>
+            <div class="opening-name">Daddy! daddy! do!</div>
+          </a>
+        </div>
+        <div class="openings-row">
+          <a class="opening" href="https://www.youtube.com/watch?v=ZoxtlCeo19s&t=1s&ab_channel=syncweeb" target="_blank">
+            <div class="opening-image" style="background-image: url('https://images8.alphacoders.com/100/1000082.jpg');"></div>
+            <div class="opening-anime">The Disastrous Life of Saiki K.</div>
+            <div class="opening-name">Oteage Psychics</div>
+          </a>
+          <a class="opening" href="https://www.youtube.com/watch?v=uabpjLQnArY&ab_channel=AnimeOPED4K303" target="_blank">
+            <div class="opening-image" style="background-image: url('https://www.intoxianime.com/wp-content/uploads/2018/08/grand-blue-2.jpg');"></div>
+            <div class="opening-anime">Grand Blue</div>
+            <div class="opening-name">Shounan no Kaze</div>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-banner" style="background-position: center; background-image: url('https://pa1.narvii.com/6592/a95ab19eb466a81793574a2d61107a603561eee1_hq.gif');">
+
+      <div class="wave-invert-3">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-dark)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
+        </svg>
+      </div>
+
+      <div class="wave-invert-2">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
+        </svg>
+      </div>
+
+      <div class="wave-invert-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-light)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
+        </svg>
+      </div>
+
+      <div class="wave-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-dark)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
+        </svg>
+      </div>
+      <div class="wave-2">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
+        </svg>
+      </div>
+      <div class="wave-3">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-light)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
+        </svg>
+      </div>
+    </div>
+
+    <div class="wave-fill"></div>
+
+    <div class="favorite-endings">
+      <div class="section-title">
+        Favorite Endings
+      </div>
+
+      <div class="link-alert">
+        Clique na imagem para assistir
+      </div>
+
+      <div class="top-10-endings">
+        <div class="endings-row">
+          <a class="ending" href="https://www.youtube.com/watch?v=ChayFwyFvPk&ab_channel=CrunchyrollDubs" target="_blank">
+            <div class="ending-image" style="background-image: url('https://images7.alphacoders.com/626/626858.png');"></div>
+            <div class="ending-anime">Overlord</div>
+            <div class="ending-name">L.L.L.</div>
+          </a>
+          <a class="ending" href="https://www.youtube.com/watch?v=eciJ-ercyPU&ab_channel=CrunchyrollCollection" target="_blank">
+            <div class="ending-image" style="background-image: url('https://i0.wp.com/www.otakupt.com/wp-content/uploads/2021/01/Kumo-desu-ga-Nani-ka-teaser-visual-poster.jpg?fit=1280%2C720&ssl=1');"></div>
+            <div class="ending-anime">So I'm a Spider, So What?</div>
+            <div class="ending-name">Do Your Best! Kumoko-san's</div>
+          </a>
+        </div>
+        <div class="endings-row">
+          <a class="ending" href="https://www.youtube.com/watch?v=K1PCl5D-IpU&ab_channel=Sovey" target="_blank">
+            <div class="ending-image" style="background-image: url('https://images5.alphacoders.com/973/973364.jpg');"></div>
+            <div class="ending-anime">Bunny Girl</div>
+            <div class="ending-name">Fukashiginokarute</div>
+          </a>
+          <a class="ending" href="https://www.youtube.com/watch?v=ow0b-Crmr1Q&ab_channel=CrunchyrollCollection" target="_blank">
+            <div class="ending-image" style="background-image: url('https://images3.alphacoders.com/792/792738.png');"></div>
+            <div class="ending-anime">Youjo Senki</div>
+            <div class="ending-name">Los los los</div>
+          </a>
+        </div>
+        <div class="endings-row">
+          <a class="ending" href="https://www.youtube.com/watch?v=b5Nud2MMRo4" target="_blank">
+            <div class="ending-image" style="background-image: url('https://plsnohate.files.wordpress.com/2016/12/untitled.png?w=740');"></div>
+            <div class="ending-anime">Re:Zero</div>
+            <div class="ending-name">Stay Alive</div>
+          </a>
+          <a class="ending" href="https://www.youtube.com/watch?v=C6RqL34RSdg&ab_channel=HatsuharuSohma%F0%9F%87%A7%F0%9F%87%B7" target="_blank">
+            <div class="ending-image" style="background-image: url('https://images5.alphacoders.com/115/thumbbig-1154963.webp');"></div>
+            <div class="ending-anime">Uramichi Oniisan</div>
+            <div class="ending-name">Dream ON</div>
+          </a>
+        </div>
+        <div class="endings-row">
+          <a class="ending" href="https://www.youtube.com/watch?v=e5-n6doxloo&ab_channel=TriaxFx" target="_blank">
+            <div class="ending-image" style="background-image: url('https://www.animeunited.com.br/oomtumtu/2021/04/anime-de-shadow-house-destacada-el-palomitron.jpg');"></div>
+            <div class="ending-anime">Shadows House</div>
+            <div class="ending-name">Nai nai</div>
+          </a>
+          <a class="ending" href="https://www.youtube.com/watch?v=1cYE0Bm5VKI" target="_blank">
+            <div class="ending-image" style="background-image: url('https://xenodude.files.wordpress.com/2019/08/vinland-saga-ed-1-3.png?w=700&h=');"></div>
+            <div class="ending-anime">Vinland Saga</div>
+            <div class="ending-name">Torches</div>
+          </a>
+        </div>
+        <div class="endings-row">
+          <a class="ending" href="https://youtu.be/ciui5edjw4I" target="_blank">
+            <div class="ending-image" style="background-image: url('https://user-images.githubusercontent.com/43749971/195877301-41a0c8b5-4f3a-4491-b39b-5c44782898fd.jpg');"></div>
+            <div class="ending-anime">Komi-san Can't Communicate</div>
+            <div class="ending-name">Koshaberi Biyori</div>
+          </a>
+          <a class="ending" href="https://www.youtube.com/watch?v=4dB9fpLWyac&ab_channel=Animusics" target="_blank">
+            <div class="ending-image" style="background-image: url('https://static.anime21.blog.br/2019/01/w7sh1OX.jpg');"></div>
+            <div class="ending-anime">Saiki Kusuo</div>
+            <div class="ending-name">Duet♡ Shite Kudasai</div>
+          </a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="section-banner" style="background-position: center; background-image: url('https://images8.alphacoders.com/524/524092.jpg');">
+
+      <div class="wave-invert-3">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-dark)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
+        </svg>
+      </div>
+
+      <div class="wave-invert-2">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
+        </svg>
+      </div>
+
+      <div class="wave-invert-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-light)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
+        </svg>
+      </div>
+    <div class="thanks-banner" style="background-position: center; background-image: url('https://images.alphacoders.com/681/681228.png');">
+
+      <div class="wave-invert-3">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-dark)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
+        </svg>
+      </div>
+
+      <div class="wave-invert-2">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
+        </svg>
+      </div>
+
+      <div class="wave-invert-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-light)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path>
+        </svg>
+      </div>
+
+      <div class="wave-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-dark)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
+        </svg>
+      </div>
+      <div class="wave-2">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
+        </svg>
+      </div>
+      <div class="wave-3">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="var(--color-primary-light)" fill-opacity="1" d="M0,256L80,245.3C160,235,320,213,480,224C640,235,800,277,960,282.7C1120,288,1280,256,1360,240L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
+        </svg>
+      </div>
+    </div>
+
+    <div class="wave-fill"></div>
+
+    <div class="thanks">
+      <div class="section-title">
+        Thanks for the visit!
+      </div>
+    </div>
+  </div>
+</body>
+</html>
